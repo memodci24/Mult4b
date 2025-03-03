@@ -15,6 +15,3 @@ Multiplicador binario de 4x4 bits, diseñado para tomar dos números de 4 bits (
 
 Primero se configuran los valores de entrada A0-A3 y B0-B3 mediante interruptores. Luego, se verifica que los productos parciales se generen correctamente observando las señales en los nodos internos del circuito. A continuación, se comprueba que las sumas intermedias se realicen correctamente, asegurando que los acarreos sean procesados adecuadamente. Finalmente, se analiza la salida en los LEDs, comparando el resultado con la multiplicación esperada en binario o decimal para confirmar su correcto funcionamiento.
 
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
